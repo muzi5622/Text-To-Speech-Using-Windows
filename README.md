@@ -17,7 +17,7 @@ Welcome to the **Text-To-Speech (TTS)** program! This Python-based tool leverage
 4. **Offline Functionality**: Works without an internet connection.  
 5. **Free of Cost**: 100% free to use.  
 6. **Quick Load Time**: 2-10 seconds on average*  
-7. **Minimal Storage**: Takes up to 50 MB at most.  
+7. **Minimal Storage**: Takes up to 2 MB at most.  
 
 *Performance depends on your PC’s specifications.  
 
